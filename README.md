@@ -1,5 +1,3 @@
-# S.H.A.D.Y
-
 Smart Human Activity Detection Using [YOLO](https://pjreddie.com/darknet/yolo/)
 
 ![Alt text](https://github.com/vibhorkrishna/S.H.A.D.Y/blob/main/Screenshots/shady.PNG?raw=true)
