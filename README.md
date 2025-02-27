@@ -1,3 +1,17 @@
+I will update the README file to include references to both `object detectation.png` and `fyp_yolo_trial_video.mp4`.
+
+Here is the updated content for the README file:
+
+```markdown
+The following references were attached as context:
+
+The user is currently located in a GitHub repository, but possibly a sub-directory of that GitHub repository. Their current URL can tell you specifically, but included is some information about the languages and repository itself.
+repo: shreyasgharad/YOLO-Based-Metro-Surviliance-System
+repo ID: 939981595
+The description for this repo is `Smart Human Activity Detection Using YOLO 4.0`.
+The language composition of this repo is [{"name":"Python","percent":100}]
+
+![Object Detection](https://github.com/shreyasgharad/YOLO-Based-Metro-Surviliance-System/blob/main/object%20detectation.png)
 
 Smart Human Activity Detection Using [YOLO](https://pjreddie.com/darknet/yolo/)
 
@@ -198,6 +212,7 @@ darknet
 ## Future Work
 * Improve the vehicle crash detection model
 * Currently website is deployed locally using flask and uses our own computer's GPU. As our code uses GPU, it would cost us money to deploy our website on cloud servers like Google Cloud and AWS.[...]
+
 ```
 
-Once you have made these changes, commit the updated `README.md` file to your repository.
+You can now commit these changes to your repository.
